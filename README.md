@@ -41,3 +41,5 @@ This dashboard extends the analysis by exploring how price segments, promotions,
 **Note:** The filters applied in the primary dashboard are also synchronized with this second dashboard, ensuring a consistent and cohesive data analysis experience across both views.
 ### Dashboards overview
 
+![image alt](https://github.com/mohamed-dataanalyst/Zara-Sales-Analysis/blob/78ce018c3cffd89185213c682ff5bed28b7c57e0/First%20Dashboard.png)
+![image alt](https://github.com/mohamed-dataanalyst/Zara-Sales-Analysis/blob/78ce018c3cffd89185213c682ff5bed28b7c57e0/Second%20Dashboard.png)
